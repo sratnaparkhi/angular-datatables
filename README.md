@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="FLOiwRlSTGko01NBOxevXyo1bt72fhTZnEE1YoKif_A" />
+
 # AngularDatatables
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.2.
